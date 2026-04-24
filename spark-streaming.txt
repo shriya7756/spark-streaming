@@ -1,0 +1,4 @@
+start-all.sh
+jps
+cd spark-3.5.2-bin-hadoop3
+bin/spark-submit /home/hadoop/sparkstream.py
